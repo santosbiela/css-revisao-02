@@ -1,0 +1,19 @@
+.container{
+    display: inline block;  
+}
+#img01{
+    float: left;
+    margin-left:20px
+}
+
+#img02 {
+    float:left;
+    margin-left:20px;
+      
+} 
+
+.footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+}
